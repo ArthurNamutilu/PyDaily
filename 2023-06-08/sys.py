@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 def main():
@@ -7,6 +8,7 @@ def main():
 
     print("Number of arguments {}".format(arg_num))
     print("Argument list:", arg_lst)
+    print(arg_num)
 
 if __name__ == "__main__":
     main()
