@@ -5,3 +5,5 @@ b, c, d = 1, 2, 7
 
 # Assigning same value to multi variables
 e = f = g = 9, 12, 32
+
+print("welcome")
