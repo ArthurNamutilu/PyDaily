@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 members = {
-	"Arthur": "Present",
-	"Erickson": "Absent",
-	"Gg": "Present",
-	"Fred": "Absent",
-	"Programmer": "Present",
+    "Arthur": "Present",
+    "Erickson": "Absent",
+    "Gg": "Present",
+    "Fred": "Absent",
+    "Programmer": "Present",
 }
 
 active_members = {}
