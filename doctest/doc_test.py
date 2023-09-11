@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def mul(a, b):
     """
     Function that multiplies two numbers.
