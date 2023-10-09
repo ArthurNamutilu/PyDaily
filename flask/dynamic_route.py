@@ -3,6 +3,8 @@ from flask import Flask
 
 app = Flask(__name__)
 
+""" main page """
+
 
 @app.route('/')  # static route
 def index():
